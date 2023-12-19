@@ -28,7 +28,7 @@ print(result)
 ```
 
 ## Output:
-![](maths1.png)
+![](/1.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
